@@ -1,2 +1,2 @@
-## Contact : <a href="xx">hello@blessed.rip</a>
+## Contact : <a href="mailto:">hello@blessed.rip</a>
 
